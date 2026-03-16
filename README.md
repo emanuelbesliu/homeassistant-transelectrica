@@ -291,5 +291,13 @@ MIT License - Vezi [LICENSE](LICENSE) pentru detalii.
 
 ---
 
+## ☕ Support the Developer
+
+If you find this project useful, consider buying me a coffee!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/emanuelbesliu)
+
+---
+
 *Aceasta integrare nu este afiliata oficial cu Transelectrica SA.*
 *Datele sunt furnizate public de catre Transelectrica pentru informarea populatiei.*
