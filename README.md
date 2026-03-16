@@ -3,6 +3,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/emanuelbesliu/homeassistant-transelectrica)](https://github.com/emanuelbesliu/homeassistant-transelectrica/releases/latest)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2024.1+-blue.svg)](https://www.home-assistant.io/)
 [![License](https://img.shields.io/github/license/emanuelbesliu/homeassistant-transelectrica)](LICENSE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/emanuelbesliu)
 
 Integrare Home Assistant pentru monitorizarea in timp real a **Sistemului Energetic National (SEN)** din Romania, folosind datele publice de la [Transelectrica](https://www.transelectrica.ro).
 
