@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/emanuelbesliu/homeassistant-transelectrica/compare/v1.0.1...v1.1.0) (2026-03-18)
+
+
+### Features
+
+* add brand icons for integration ([14c343f](https://github.com/emanuelbesliu/homeassistant-transelectrica/commit/14c343fa43983b418b73e7c1edacf8f544a4f362))
+
 ## [1.0.1](https://github.com/emanuelbesliu/homeassistant-transelectrica/compare/v1.0.0...v1.0.1) (2026-03-18)
 
 
